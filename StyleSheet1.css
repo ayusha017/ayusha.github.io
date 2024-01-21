@@ -10,7 +10,7 @@ a {
 }
 .topnav {
     overflow: hidden;
-    background-color:#112A46 ;
+    background-color:#26695C ;
 
   }
   .topnav a {
@@ -53,7 +53,7 @@ a {
     align-items: center;
     padding:100px;
     font-size:xx-large;
-    background-color:#ACC8E5;
+    background-color:#dcdbd0;
     color: black;
     height: 500px;
   }
